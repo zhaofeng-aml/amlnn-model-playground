@@ -24,7 +24,7 @@
 | Object Detection       | [yolov11](https://github.com/ultralytics/ultralytics)        | INT8   | Link to server(TODO) | A311D2/S905X5 |
 | Object Detection       | [yoloworld](https://github.com/AILab-CVC/YOLO-World)         | INT8   | Link to server(TODO) | A311D2/S905X5 |
 | Object Detection       | yoloe                                                        | INT8   | Link to server(TODO) | A311D2/S905X5 |
-| Face Key Points        | [retinaface]([GitHub - biubug6/Pytorch_Retinaface: Retinaface get 80.99% in widerface hard val using mobilenet0.25.](https://github.com/biubug6/Pytorch_Retinaface)) | INT8   | Link to server(TODO) | A311D2/S905X5 |
+| Face Key Points        | [retinaface]([GitHub - biubug6/Pytorch_Retinaface: Retinaface get 80.99% in widerface hard val using mobilenet0.25](https://github.com/biubug6/Pytorch_Retinaface)) | INT8   | Link to server(TODO) | A311D2/S905X5 |
 | Text Detection         | ppocr-det                                                    | INT8   | Link to server(TODO) | A311D2/S905X5 |
 | Pose Estimation        | blazepose_detect                                             | INT8   | Link to server(TODO) | A311D2/S905X5 |
 | Pose Estimation        | blazepose_landmark                                           | INT8   | Link to server(TODO) | A311D2/S905X5 |
