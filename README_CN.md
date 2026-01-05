@@ -25,7 +25,7 @@
 | Object Detection       | [yolov8](https://github.com/ultralytics/ultralytics)         | INT8   | A311D2/S905X5 |
 | Object Detection       | [yolov11](https://github.com/ultralytics/ultralytics)        | INT8   | A311D2/S905X5 |
 | Object Detection       | [yoloworld](https://github.com/AILab-CVC/YOLO-World)         | INT8   | A311D2/S905X5 |
-| Object Detection       | yoloe                                                        | INT8   | A311D2/S905X5 |
+| Object Detection       | [yoloe](https://github.com/ultralytics/ultralytics)          | INT8   | A311D2/S905X5 |
 | Face Key Points        | [retinaface](https://github.com/biubug6/Pytorch_Retinaface)  | INT8   | A311D2/S905X5 |
 | Text Detection         | ppocr-det                                                    | INT8   | A311D2/S905X5 |
 | Pose Estimation        | blazepose_detect                                             | INT8   | A311D2/S905X5 |
